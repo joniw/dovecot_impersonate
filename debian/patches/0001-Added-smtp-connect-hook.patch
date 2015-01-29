@@ -1,7 +1,6 @@
-From 7c5cff0c34b1e27af92087b948cfe9c4d4d59ec3 Mon Sep 17 00:00:00 2001
 From: Sergio Talens-Oliag <sto@iti.es>
 Date: Wed, 28 Jan 2015 11:38:10 +0100
-Subject: [PATCH] Added smtp-connect hook
+Subject: Added smtp-connect hook
 
 ---
  dovecot_impersonate.php | 28 +++++++++++++++++++++++++++-
@@ -52,6 +51,3 @@ index 1523cf3..2ae634d 100644
 +  }
  }
  ?>
--- 
-2.1.4
-
