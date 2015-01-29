@@ -1,1 +1,1 @@
-/etc/roundcubemail/dovecot-impersonate.inc.php /usr/share/roundcubemail/plugins/dovecot-impersonate/config.inc.php
+/etc/roundcubemail/dovecot_impersonate.inc.php /usr/share/roundcubemail/plugins/dovecot_impersonate/config.inc.php

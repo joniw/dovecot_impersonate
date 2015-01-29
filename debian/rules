@@ -5,4 +5,4 @@
 
 override_dh_install:
 	dh_install
-	mv debian/roundcubemail-plugin-dovecot-impersonate/etc/roundcubemail/config.inc.php.dist debian/roundcubemail-plugin-dovecot-impersonate/etc/roundcubemail/dovecot-impersonate.inc.php
+	mv debian/roundcubemail-plugin-dovecot-impersonate/etc/roundcubemail/config.inc.php.dist debian/roundcubemail-plugin-dovecot-impersonate/etc/roundcubemail/dovecot_impersonate.inc.php

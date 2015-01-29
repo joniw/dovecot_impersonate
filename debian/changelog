@@ -1,3 +1,9 @@
+roundcubemail-plugin-dovecot-impersonate (2.1-2) stable; urgency=medium
+
+  * Renamed module dirs from dovecot-impersonate to dovecot_impersonate.
+
+ -- Sergio Talens-Oliag <sto@iti.es>  Thu, 29 Jan 2015 10:18:00 +0100
+
 roundcubemail-plugin-dovecot-impersonate (2.1-1) stable; urgency=low
 
   * First version, packaged with git-buildpackage.
