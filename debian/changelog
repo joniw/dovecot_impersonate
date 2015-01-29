@@ -1,0 +1,5 @@
+roundcubemail-plugin-dovecot-impersonate (2.1-1) stable; urgency=low
+
+  * First version, packaged with git-buildpackage.
+
+ -- Sergio Talens-Oliag <sto@iti.es>  Thu, 29 Jan 2015 00:11:02 +0100

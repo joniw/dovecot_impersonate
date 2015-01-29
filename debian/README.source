@@ -1,0 +1,7 @@
+This package ships the dovecot-impersonate roundcube plugin to be used with
+the kolab roundcube packages @ ITI.
+
+The package is generated from a git repository and includes a patch to support
+the use of the impersonation login data with authenticated SMTP; the patch
+will be removed once upstream applies our patch.
+

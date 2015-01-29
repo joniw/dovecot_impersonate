@@ -1,0 +1,19 @@
+Source: roundcubemail-plugin-dovecot-impersonate
+Section: web
+Priority: extra
+Maintainer: Sergio Talens-Oliag <sto@iti.es>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.2
+Vcs-Git: https://github.com/stogh/dovecot_impersonate
+
+Package: roundcubemail-plugin-dovecot-impersonate
+Architecture: all
+Depends: roundcubemail, ${misc:Depends}
+Description: Roundcube plugin to impersonate users against Dovecot
+ RoundCube Webmail is a browser-based multilingual IMAP client with an
+ application-like user interface. It provides full functionality
+ expected from an e-mail client, including MIME support, address book,
+ folder manipulation and message filters.
+ .
+ This package provides a plugin to impersonate users when the IMAP server is
+ Dovecot and we have configured it to use master passwords.

@@ -1,0 +1,5 @@
+config.inc.php.dist     /etc/roundcubemail/
+composer.json           /usr/share/roundcubemail/plugins/dovecot-impersonate/
+dovecot_impersonate.php /usr/share/roundcubemail/plugins/dovecot-impersonate/
+package.xml             /usr/share/roundcubemail/plugins/dovecot-impersonate/
+README.md               /usr/share/roundcubemail/plugins/dovecot-impersonate/
